@@ -11,7 +11,7 @@ public class RandomTest {
 
         dt1.getMonth()
         List<Date> list = new ArrayList<>();
-        list.add(dt1);list.add(dt2);
+        //list.add(dt1);list.add(dt2);
 
         Map<Integer, Integer> map = findMap(list);
     }
